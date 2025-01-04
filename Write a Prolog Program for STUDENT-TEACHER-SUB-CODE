@@ -1,0 +1,8 @@
+takes(ram,vinee,csa17).
+takes(ravi,sharyu,csa02).
+
+OUTPUT:
+
+Teacher =ram
+Student = vinee
+Course = csa17
