@@ -1,0 +1,7 @@
+add(N) :-
+    Sum is N*(N+1)/2,
+    write(Sum).
+
+output:
+add(5).
+15
