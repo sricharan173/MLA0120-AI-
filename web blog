@@ -1,0 +1,20 @@
+<h1>Welcome to My Blog</h1>
+<p>Welcome to my new WordPress blog. In this post, I will demonstrate some basic HTML elements.</p>
+
+<h2>Anchor Tag</h2>
+<p>Here is an example of an <a href="https://www.example.com" title="Example Site">anchor tag</a> linking to another site.</p>
+
+<h2>Title Tag</h2>
+<p>The title of this post is handled by the WordPress post title. Ensure it is descriptive for better SEO.</p>
+
+<h2>Image</h2>
+<p>Below is an example of an image with an alt attribute:</p>
+<img src="https://www.example.com/image.jpg" alt="Description of Image">
+
+<h2>List</h2>
+<p>Here is an example of an unordered list:</p>
+<ul>
+    <li>First item</li>
+    <li>Second item</li>
+    <li>Third item</li>
+</ul>
