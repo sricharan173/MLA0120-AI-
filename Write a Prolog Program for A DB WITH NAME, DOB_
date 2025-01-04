@@ -1,0 +1,8 @@
+born(rohith,11,11,2004).
+born(bannu,29,02,2004).
+
+output:
+NAME = rohith
+Date =11
+Month =11
+Year = 2024
